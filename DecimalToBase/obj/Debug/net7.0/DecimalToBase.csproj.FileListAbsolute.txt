@@ -1,0 +1,15 @@
+D:\GitProblems\.NET-problems\DecimalToBase\bin\Debug\net7.0\DecimalToBase.exe
+D:\GitProblems\.NET-problems\DecimalToBase\bin\Debug\net7.0\DecimalToBase.deps.json
+D:\GitProblems\.NET-problems\DecimalToBase\bin\Debug\net7.0\DecimalToBase.runtimeconfig.json
+D:\GitProblems\.NET-problems\DecimalToBase\bin\Debug\net7.0\DecimalToBase.dll
+D:\GitProblems\.NET-problems\DecimalToBase\bin\Debug\net7.0\DecimalToBase.pdb
+D:\GitProblems\.NET-problems\DecimalToBase\obj\Debug\net7.0\DecimalToBase.csproj.AssemblyReference.cache
+D:\GitProblems\.NET-problems\DecimalToBase\obj\Debug\net7.0\DecimalToBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProblems\.NET-problems\DecimalToBase\obj\Debug\net7.0\DecimalToBase.AssemblyInfoInputs.cache
+D:\GitProblems\.NET-problems\DecimalToBase\obj\Debug\net7.0\DecimalToBase.AssemblyInfo.cs
+D:\GitProblems\.NET-problems\DecimalToBase\obj\Debug\net7.0\DecimalToBase.csproj.CoreCompileInputs.cache
+D:\GitProblems\.NET-problems\DecimalToBase\obj\Debug\net7.0\DecimalToBase.dll
+D:\GitProblems\.NET-problems\DecimalToBase\obj\Debug\net7.0\refint\DecimalToBase.dll
+D:\GitProblems\.NET-problems\DecimalToBase\obj\Debug\net7.0\DecimalToBase.pdb
+D:\GitProblems\.NET-problems\DecimalToBase\obj\Debug\net7.0\DecimalToBase.genruntimeconfig.cache
+D:\GitProblems\.NET-problems\DecimalToBase\obj\Debug\net7.0\ref\DecimalToBase.dll
