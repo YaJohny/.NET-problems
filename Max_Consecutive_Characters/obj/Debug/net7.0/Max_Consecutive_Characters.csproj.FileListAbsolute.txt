@@ -1,0 +1,15 @@
+D:\GitProblems\.NET-problems\Max_Consecutive_Characters\bin\Debug\net7.0\Max_Consecutive_Characters.exe
+D:\GitProblems\.NET-problems\Max_Consecutive_Characters\bin\Debug\net7.0\Max_Consecutive_Characters.deps.json
+D:\GitProblems\.NET-problems\Max_Consecutive_Characters\bin\Debug\net7.0\Max_Consecutive_Characters.runtimeconfig.json
+D:\GitProblems\.NET-problems\Max_Consecutive_Characters\bin\Debug\net7.0\Max_Consecutive_Characters.dll
+D:\GitProblems\.NET-problems\Max_Consecutive_Characters\bin\Debug\net7.0\Max_Consecutive_Characters.pdb
+D:\GitProblems\.NET-problems\Max_Consecutive_Characters\obj\Debug\net7.0\Max_Consecutive_Characters.csproj.AssemblyReference.cache
+D:\GitProblems\.NET-problems\Max_Consecutive_Characters\obj\Debug\net7.0\Max_Consecutive_Characters.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProblems\.NET-problems\Max_Consecutive_Characters\obj\Debug\net7.0\Max_Consecutive_Characters.AssemblyInfoInputs.cache
+D:\GitProblems\.NET-problems\Max_Consecutive_Characters\obj\Debug\net7.0\Max_Consecutive_Characters.AssemblyInfo.cs
+D:\GitProblems\.NET-problems\Max_Consecutive_Characters\obj\Debug\net7.0\Max_Consecutive_Characters.csproj.CoreCompileInputs.cache
+D:\GitProblems\.NET-problems\Max_Consecutive_Characters\obj\Debug\net7.0\Max_Consecutive_Characters.dll
+D:\GitProblems\.NET-problems\Max_Consecutive_Characters\obj\Debug\net7.0\refint\Max_Consecutive_Characters.dll
+D:\GitProblems\.NET-problems\Max_Consecutive_Characters\obj\Debug\net7.0\Max_Consecutive_Characters.pdb
+D:\GitProblems\.NET-problems\Max_Consecutive_Characters\obj\Debug\net7.0\Max_Consecutive_Characters.genruntimeconfig.cache
+D:\GitProblems\.NET-problems\Max_Consecutive_Characters\obj\Debug\net7.0\ref\Max_Consecutive_Characters.dll
