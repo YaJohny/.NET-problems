@@ -1,0 +1,15 @@
+D:\GitProblems\.NET-problems\OOP\bin\Debug\net7.0\OOP.exe
+D:\GitProblems\.NET-problems\OOP\bin\Debug\net7.0\OOP.deps.json
+D:\GitProblems\.NET-problems\OOP\bin\Debug\net7.0\OOP.runtimeconfig.json
+D:\GitProblems\.NET-problems\OOP\bin\Debug\net7.0\OOP.dll
+D:\GitProblems\.NET-problems\OOP\bin\Debug\net7.0\OOP.pdb
+D:\GitProblems\.NET-problems\OOP\obj\Debug\net7.0\OOP.csproj.AssemblyReference.cache
+D:\GitProblems\.NET-problems\OOP\obj\Debug\net7.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProblems\.NET-problems\OOP\obj\Debug\net7.0\OOP.AssemblyInfoInputs.cache
+D:\GitProblems\.NET-problems\OOP\obj\Debug\net7.0\OOP.AssemblyInfo.cs
+D:\GitProblems\.NET-problems\OOP\obj\Debug\net7.0\OOP.csproj.CoreCompileInputs.cache
+D:\GitProblems\.NET-problems\OOP\obj\Debug\net7.0\OOP.dll
+D:\GitProblems\.NET-problems\OOP\obj\Debug\net7.0\refint\OOP.dll
+D:\GitProblems\.NET-problems\OOP\obj\Debug\net7.0\OOP.pdb
+D:\GitProblems\.NET-problems\OOP\obj\Debug\net7.0\OOP.genruntimeconfig.cache
+D:\GitProblems\.NET-problems\OOP\obj\Debug\net7.0\ref\OOP.dll
