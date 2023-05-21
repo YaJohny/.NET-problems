@@ -1,0 +1,15 @@
+D:\GitProblems\.NET-problems\Interfaces\bin\Debug\net7.0\Interfaces.exe
+D:\GitProblems\.NET-problems\Interfaces\bin\Debug\net7.0\Interfaces.deps.json
+D:\GitProblems\.NET-problems\Interfaces\bin\Debug\net7.0\Interfaces.runtimeconfig.json
+D:\GitProblems\.NET-problems\Interfaces\bin\Debug\net7.0\Interfaces.dll
+D:\GitProblems\.NET-problems\Interfaces\bin\Debug\net7.0\Interfaces.pdb
+D:\GitProblems\.NET-problems\Interfaces\obj\Debug\net7.0\Interfaces.csproj.AssemblyReference.cache
+D:\GitProblems\.NET-problems\Interfaces\obj\Debug\net7.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProblems\.NET-problems\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfoInputs.cache
+D:\GitProblems\.NET-problems\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfo.cs
+D:\GitProblems\.NET-problems\Interfaces\obj\Debug\net7.0\Interfaces.csproj.CoreCompileInputs.cache
+D:\GitProblems\.NET-problems\Interfaces\obj\Debug\net7.0\Interfaces.dll
+D:\GitProblems\.NET-problems\Interfaces\obj\Debug\net7.0\refint\Interfaces.dll
+D:\GitProblems\.NET-problems\Interfaces\obj\Debug\net7.0\Interfaces.pdb
+D:\GitProblems\.NET-problems\Interfaces\obj\Debug\net7.0\Interfaces.genruntimeconfig.cache
+D:\GitProblems\.NET-problems\Interfaces\obj\Debug\net7.0\ref\Interfaces.dll
